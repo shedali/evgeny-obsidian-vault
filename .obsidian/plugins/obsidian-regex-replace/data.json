@@ -1,0 +1,10 @@
+{
+  "findText": "#idea",
+  "replaceText": "#knowledge",
+  "useRegEx": false,
+  "selOnly": false,
+  "caseInsensitive": false,
+  "processLineBreak": true,
+  "processTab": false,
+  "prefillFind": false
+}

@@ -1,0 +1,41 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Templates",
+  "templates_pairs": [
+    [
+      "{{weather}}",
+      "curl wttr.in/London?format=3"
+    ],
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": true,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "Knowledge",
+      "template": "Templates/Knowledge Zetle.md"
+    },
+    {
+      "folder": "Ideas",
+      "template": "Templates/Idea Zetle.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "enabled_templates_hotkeys": [
+    "Templates/Idea Zetle.md",
+    "Templates/Knowledge Zetle.md"
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true,
+  "template_folder": "📕 Daily",
+  "locale": "en"
+}
